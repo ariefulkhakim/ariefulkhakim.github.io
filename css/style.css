@@ -110,6 +110,9 @@ ul.list li i:hover  {
     margin-top: 30px;
     margin-right: -289px;
     margin-bottom: -74px;
+    -webkit-transform: rotateZ(90deg);
+    -moz-transform: rotateZ(90deg);
+    -o-transform: rotateZ(90deg);
     transform: rotateZ(90deg);
 }
 .info {
@@ -179,6 +182,9 @@ ul.list li i:hover  {
     margin-top: -157px;
     margin-right: -240px;
     margin-bottom: 105px;
+    -webkit-transform: rotateZ(90deg);
+    -moz-transform: rotateZ(90deg);
+    -o-transform: rotateZ(90deg);
     transform: rotateZ(90deg);
 }
 }
