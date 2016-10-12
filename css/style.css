@@ -184,6 +184,7 @@ ul.list li i:hover  {
     margin-bottom: 105px;
     -webkit-transform: rotateZ(90deg);
     -moz-transform: rotateZ(90deg);
+    -ms-transform: rotateZ(90deg);
     -o-transform: rotateZ(90deg);
     transform: rotateZ(90deg);
 }
