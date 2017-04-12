@@ -1,0 +1,37 @@
+@media screen and (max-width: 320px) {
+	#wrapper {
+		padding: 2em 1.5em;
+	}
+
+	.title-small {
+		position: none;
+	}
+}
+
+@media screen and (min-width: 768px) {
+	
+	#wrapper {
+		width: 750px;
+	}
+
+	.title-small {
+		position: none;
+	}
+
+}
+
+@media screen and (min-width: 992px) {
+	
+	#wrapper {
+		width: 970px;
+	}
+
+}
+
+@media screen and (min-width: 1200px) {
+	
+	#wrapper {
+		width: 1170px;
+	}
+
+}
